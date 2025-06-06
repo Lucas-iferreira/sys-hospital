@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.lucasiferreira</groupId>
-	<artifactId>sys-hos</artifactId>
+	<artifactId>sys-hospital</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sys-hospital</name>
 	<description>Demo project for Spring Boot</description>
